@@ -6,4 +6,4 @@
 
 3. ***Variables:*** In simple words a variable is used to store data in computer momory.
 
-4. ***IDEs:*** In simple trem an IDE or Integrated Development Environment is an software apps that allows developer to write, read and debug code in one place.
+4. ***#IDEs:*** In simple trem an IDE or Integrated Development Environment is an software apps that allows developer to write, read and debug code in one place.
