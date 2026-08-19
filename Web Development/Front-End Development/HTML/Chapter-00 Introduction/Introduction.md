@@ -1,8 +1,8 @@
 # Chapter - 00 | HTML Introduction
 
-
 ## HTML Introduction
-### What is HTML 
+
+### What is HTML
 
 HTML stands for ***H***yper ***T***ext ***M***arkup ***L***anguage it is a markup language used to create web pages. HTML is a basic building block of a web pages.
 
@@ -24,7 +24,7 @@ HTML stands for ***H***yper ***T***ext ***M***arkup ***L***anguage it is a marku
 
 ```
 
-### Explanation of above HTML document 
+### Explanation of above HTML document
 
 - `<!DOCTYPE html>` : This declaration defines the document type and version of HTML. It helps the browser understand that this is an HTML5 document.
 

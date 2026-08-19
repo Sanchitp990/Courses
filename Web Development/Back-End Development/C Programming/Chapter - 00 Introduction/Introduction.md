@@ -21,7 +21,7 @@ The most important features of C language are
 9. **Pointer Support**
 10. **Recursion**
 
-**These features are defined below: -**
+### Feature descriptions
 
 1. **Simplicity and Efficiency** : C's straightforward syntax makes it accessible for beginners and allows for the development of efficient programs. It's design facilitates low-level access to memory and system processes, enabling the creation of applications that perform optimally. ​
 
@@ -57,4 +57,4 @@ C is a mother of all programming language at present, all other programming lang
 6. **Game Development**
 7. **Network Programming**
 8. **Scientific Computing**
-9.  **IoT (Internet of Things)**
+9. **IoT (Internet of Things)**
